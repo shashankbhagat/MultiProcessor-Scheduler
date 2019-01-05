@@ -1,0 +1,162 @@
+Priority process not created.
+Priority process not created.
+Priority process not created.
+SJF process not created.
+SJF process not created.
+SJF process not created.
+FCFS process not created.
+FCFS process not created.
+Non-Recurring FCFS Jobs
+ID 	 Arrival Time 	 Burst Time 	 Starvation Time 	 Sleep Time 	 Recurring/Non-Recurring
+65	12	2	0/1	0	0
+Number of CPU's: 4
+CPU Clock: 0
+
+CPU:3 active
+Non Recurring FCFS Job in CPU:3	Process ID:65 dequeued
+
+Computing....
+CPU:3 active
+
+CPU Clock: 1
+
+Computing....
+CPU:3 active
+Non-Recurring FCFS Jobs
+CPU:3
+ID 	 Arrival Time 	 Burst Time 	 Starvation Time 	 Sleep Time 	 Recurring/Non-Recurring 	 Completion Time 	 Waiting Time 	 Turn Around Time
+65	12	2	1	0	0/1	14	1	3
+
+CPU Clock: 2
+
+CPU Clock: 3
+
+CPU Clock: 4
+
+CPU Clock: 5
+
+CPU Clock: 6
+
+CPU Clock: 7
+
+CPU Clock: 8
+
+CPU Clock: 9
+
+CPU Clock: 10
+
+CPU Clock: 11
+
+CPU Clock: 12
+
+CPU Clock: 13
+
+CPU Clock: 14
+
+CPU Clock: 15
+
+CPU Clock: 16
+
+CPU Clock: 17
+
+CPU Clock: 18
+
+CPU Clock: 19
+
+CPU Clock: 20
+
+CPU Clock: 21
+
+CPU Clock: 22
+
+CPU Clock: 23
+
+CPU Clock: 24
+
+CPU Clock: 25
+
+CPU Clock: 26
+
+CPU Clock: 27
+
+CPU Clock: 28
+
+CPU Clock: 29
+
+CPU Clock: 30
+
+CPU Clock: 31
+
+CPU Clock: 32
+
+CPU Clock: 33
+
+CPU Clock: 34
+
+CPU Clock: 35
+
+CPU Clock: 36
+
+CPU Clock: 37
+
+CPU Clock: 38
+
+CPU Clock: 39
+
+CPU Clock: 40
+
+CPU Clock: 41
+
+CPU Clock: 42
+
+CPU Clock: 43
+
+CPU Clock: 44
+
+CPU Clock: 45
+
+CPU Clock: 46
+
+CPU Clock: 47
+
+CPU Clock: 48
+
+CPU Clock: 49
+
+CPU Clock: 50
+
+CPU Clock: 51
+
+CPU Clock: 52
+
+CPU Clock: 53
+
+CPU Clock: 54
+
+CPU Clock: 55
+
+CPU Clock: 56
+
+CPU Clock: 57
+
+CPU Clock: 58
+
+CPU Clock: 59
+Final Statistics:
+Display Non-Recurring Priority Jobs
+ID 	 Arrival Time 	 Burst Time 	 Priority Number 	 Sleep Time 	 Recurring/Non-Recurring 	 Completion Time 	 Waiting Time 	 Turn Around Time
+Display Non-Recurring SJF Jobs
+ID 	 Arrival Time 	 Burst Time 	 Starvation Time 	 Sleep Time 	 Recurring/Non-Recurring 	 Completion Time 	 Waiting Time 	 Turn Around Time
+Display Non-Recurring FCFS Jobs
+ID 	 Arrival Time 	 Burst Time 	 Starvation Time 	 Sleep Time 	 Recurring/Non-Recurring 	 Completion Time 	 Waiting Time 	 Turn Around Time
+65	12	2	1	0	0/1	14	1	3
+Display Recurring Priority Jobs
+
+Display Recurring SJF Jobs
+Display Recurring FCFS Jobs
+
+CPU Utilisation
+CPU 0:0% utilised
+CPU 1:0% utilised
+CPU 2:0% utilised
+CPU 3:100% utilised
